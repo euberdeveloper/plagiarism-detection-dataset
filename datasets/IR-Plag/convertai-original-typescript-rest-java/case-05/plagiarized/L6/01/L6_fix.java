@@ -1,4 +1,4 @@
-package IR
+package IR;
 
 public class L6_fix {
 

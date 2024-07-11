@@ -1,4 +1,4 @@
-package IR
+package IR;
 
 import java.util.Scanner;
 public class T05

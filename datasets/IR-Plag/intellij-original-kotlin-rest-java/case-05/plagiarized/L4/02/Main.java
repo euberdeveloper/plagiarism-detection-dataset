@@ -1,4 +1,4 @@
-package IR
+package IR;
 
 public class Main {
     static java.util.Scanner sc = new java.util.Scanner(System.in);

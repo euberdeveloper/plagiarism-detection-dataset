@@ -1,4 +1,4 @@
-package IR
+package IR;
 
 public class Main {
     public static void printOut(){

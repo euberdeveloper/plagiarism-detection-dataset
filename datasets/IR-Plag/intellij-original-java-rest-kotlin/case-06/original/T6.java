@@ -1,4 +1,4 @@
-package IR
+package IR;
 
 public class T6 {
 	public static void main(String[] args) {

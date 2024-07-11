@@ -1,4 +1,4 @@
-package IR
+package IR;
 
 import java.sql.SQLOutput;
 import java.util.Scanner;
