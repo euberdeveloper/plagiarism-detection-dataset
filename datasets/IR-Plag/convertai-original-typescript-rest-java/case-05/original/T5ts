@@ -1,0 +1,21 @@
+import { Scanner } from 'readline-sync';
+
+function main(): void {
+  console.log('Enter an integer: ');
+  const input: Scanner = new Scanner();
+  const number: number = input.nextInt();
+  reverse(number);
+}
+
+function reverse(number: number): void {
+  while (number !== 0) {
+    const remainder: number = number % 10;
+    console.log(remainder);
+    number = Math.floor(number / 10);
+  }
+
+  console.log();
+}
+
+main();
+

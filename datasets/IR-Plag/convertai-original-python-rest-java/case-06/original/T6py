@@ -1,0 +1,13 @@
+import sys
+
+num = [0] * 10
+
+for i in range(10):
+    # Read a number
+    print("Read a number: ", end="")
+    num[i] = int(input())
+
+# Display the array
+for i in range(9, -1, -1):
+    print(num[i])
+

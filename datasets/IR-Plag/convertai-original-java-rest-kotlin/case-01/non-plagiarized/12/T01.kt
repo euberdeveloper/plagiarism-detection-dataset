@@ -1,0 +1,11 @@
+package IR
+
+/**
+ * @author 6968A2C57C3A4FEE8FADC79A80355E4D F13FFB0C4AF5E1CE7C646A5222FBC1E9 2451041557A22145B3701B0184109CAB035
+ */
+fun main() {
+    repeat(5) {
+        println("Welcome To Java")
+    }
+}
+
